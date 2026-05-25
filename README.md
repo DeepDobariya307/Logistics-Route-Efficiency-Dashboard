@@ -49,7 +49,7 @@ Volume.
 Defined delay using 75th percentile threshold.
 
 5️⃣ Visualization & Dashboard
-Built an interactive dashboard using Streamlit.
+Built interactive dashboard using Streamlit.
 
 📈 Key Insights
 Identified high-delay routes and inefficient delivery paths
@@ -104,4 +104,3 @@ Cost analysis
 
 👨‍💻 Author
 Deep Prakashbhai Dobariya
-
